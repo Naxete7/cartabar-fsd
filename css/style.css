@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    background-image: url(../img/hakuna-matata\ ven\ y\ se\ feliz.jpg);
+    background-repeat: no-repeat;
+    margin-left: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.barra {
+    margin-left: 25em;
+    margin-top: 3em;
+    width: 35em;
+}
+
+.contact {
+    margin-left: 15em;
+}

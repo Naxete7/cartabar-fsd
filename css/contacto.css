@@ -1,0 +1,8 @@
+body {
+    display: flex;
+    background-image: url(../img/simba.jpg);
+    background-repeat: no-repeat;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
