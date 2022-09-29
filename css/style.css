@@ -1,7 +1,11 @@
-.nav {
+#footer {
     background-color: orange;
 }
 
-.contact {
-    font-size: 1em;
+body {
+    background-image: url(../img/SELVA-5.jpg);
+}
+
+.texto {
+    color: rgb(249, 187, 71);
 }
