@@ -9,3 +9,7 @@ body {
 .texto {
     color: rgb(249, 187, 71);
 }
+
+.comida {
+    border-radius: 100%;
+}
