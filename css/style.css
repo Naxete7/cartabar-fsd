@@ -3,13 +3,24 @@
 }
 
 body {
-    background-image: url(../img/SELVA-5.jpg);
+    background-image: url(../img/selva20.JPG);
 }
 
 .texto {
-    color: rgb(249, 187, 71);
+    color: orange;
+    text-align: center;
+    font-size: larger;
+    font-family: true;
 }
 
 .comida {
     border-radius: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
 }
