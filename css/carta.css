@@ -4,8 +4,14 @@
 
 .texto {
     color: orange;
+    text-align: center;
 }
 
 body {
     background-image: url(../img/plantas.jpg);
+    margin: 0%;
+}
+
+.accordion {
+    border-color: orange;
 }
