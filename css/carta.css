@@ -5,6 +5,13 @@
 .texto {
     color: orange;
     text-align: center;
+    font-size: x-large;
+    font-family: papyrus;
+}
+
+.texto2 {
+    font-family: papyrus;
+    font-size: x-large;
 }
 
 body {

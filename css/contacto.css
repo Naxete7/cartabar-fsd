@@ -7,6 +7,13 @@
 
 .texto {
     color: orange;
+    font-size: x-large;
+    font-family: papyrus;
+}
+
+.texto2 {
+    font-size: x-large;
+    font-family: papyrus;
 }
 
 #footer {

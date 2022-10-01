@@ -5,8 +5,15 @@
 .texto {
     color: orange;
     text-align: center;
+    font-size: x-large;
+    font-family: papyrus;
+}
+
+.texto2 {
+    font-family: papyrus;
 }
 
 body {
     background-image: url(../img/plantas.jpg);
+    margin: 0%;
 }

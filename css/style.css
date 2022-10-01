@@ -5,8 +5,8 @@
 .texto {
     color: orange;
     text-align: center;
-    font-size: larger;
-    font-family: true;
+    font-size: x-large;
+    font-family: papyrus;
 }
 
 .comida {
@@ -30,5 +30,5 @@ h3 {
 }
 
 .hakuna {
-    border: 5px solid orange;
+    border: 0.1em solid orange;
 }
