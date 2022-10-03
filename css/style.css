@@ -32,3 +32,8 @@ h3 {
 .hakuna {
     border: 0.1em solid orange;
 }
+
+body {
+    margin: 0;
+    padding: 0;
+}

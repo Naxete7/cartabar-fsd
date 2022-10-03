@@ -15,5 +15,6 @@
 
 body {
     background-image: url(../img/plantas.jpg);
-    margin: 0%;
+    margin: 0;
+    padding: 0;
 }

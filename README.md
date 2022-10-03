@@ -1,7 +1,7 @@
 # cartabar-fsd
 Segunda prueba tecnica. Carta de un bar
 
-Para la realización de esta prueba tecnica, he utilizado html y css. Poniendo en práctica los codigos de Bootstrap para que la pagina tuviera una respuesta responsive al cambiar de dispositivo.
+Para la realización de esta prueba tecnica, he utilizado html y css. Poniendo en práctica los coódigos de Bootstrap para que la pagina tuviera una respuesta responsive al cambiar de dispositivo.
 
 https://naxete7.github.io/cartabar-fsd/
 
