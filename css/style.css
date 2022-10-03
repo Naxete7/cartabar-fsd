@@ -11,6 +11,8 @@
 
 .comida {
     border-radius: 100%;
+    width: 15em;
+    height: 15em;
 }
 
 h1 {
@@ -36,4 +38,11 @@ h3 {
 body {
     margin: 0;
     padding: 0;
+}
+
+p {
+    color: orange;
+    text-align: center;
+    font-size: x-large;
+    font-family: papyrus;
 }
