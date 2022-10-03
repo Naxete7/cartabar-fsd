@@ -1,33 +1,27 @@
-.cont {
-    margin-top: 3em;
-    margin-bottom: 3em;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.texto {
-    color: orange;
-    font-size: x-large;
-    font-family: papyrus;
-}
-
-.texto2 {
-    font-size: x-large;
-    font-family: papyrus;
-}
-
-#footer {
-    background-color: orange;
-}
-
-body {
-    background-image: url(../img/plantas.jpg);
-    margin: 0;
-    padding: 0;
-}
-
-.mapa {
-    width: 55vw;
-    height: 65vh;
-    margin-top: 3em;
-}
+    .cont {
+        margin-top: 3em;
+        margin-bottom: 3em;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .texto {
+        color: orange;
+        font-size: x-large;
+        font-family: papyrus;
+    }
+    
+    .texto2 {
+        font-size: x-large;
+        font-family: papyrus;
+    }
+    
+    #footer {
+        background-color: orange;
+    }
+    
+    body {
+        background-image: url(../img/plantas.jpg);
+        margin: 0;
+        padding: 0;
+    }

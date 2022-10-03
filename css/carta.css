@@ -4,6 +4,7 @@
 
 .texto {
     color: orange;
+    justify-content: center;
     text-align: center;
     font-size: x-large;
     font-family: papyrus;
